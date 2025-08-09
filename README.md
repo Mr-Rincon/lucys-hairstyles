@@ -32,7 +32,8 @@ Designed with a modern aesthetic and intuitive navigation, it allows visitors to
 ├── /js
 │   └── main.js
 └── /src
-    └── (hairstyle photos)
+    └── /img
+        └──(hairstyle photos)
 ```
 
 
